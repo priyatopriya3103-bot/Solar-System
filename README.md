@@ -16,7 +16,7 @@ A visually engaging Solar System built using HTML and CSS. This project demonstr
 - CSS (Animations, Transforms & Keyframes)
 
 🚀Live Demo
-https://priyatopriya3103-bot.github.io/Whirling-Photos-animation/
+ https://priyatopriya3103-bot.github.io/Solar-System/
 
 📷 Preview
 ![Project Preview](assets/preview.png)
