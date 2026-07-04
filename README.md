@@ -15,6 +15,8 @@ A visually engaging Solar System built using HTML and CSS. This project demonstr
 - HTML
 - CSS (Animations, Transforms & Keyframes)
 
+📷 Preview
+![Project Preview](assets/preview.png)
 
 📚 What I Learned
 
