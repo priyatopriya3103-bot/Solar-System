@@ -32,8 +32,7 @@ A visually engaging Solar System built using HTML and CSS. This project demonstr
 
 - Planet information popup
 - Speed controls
-- Dark/Light themes
-- JavaScript interactions
+- Dark themes
 
 ---
 
